@@ -1,0 +1,20 @@
+FIRST BRANCH XPATH
+//*[@id="tdi_76_aae"]/div/div[1]/div/div[3]/div/p[7]/text()[1]
+
+SECOND BRANCH XPATH
+//*[@id="tdi_76_aae"]/div/div[1]/div/div[3]/div/p[8]/text()[1]
+
+LAST BRANCH XPATH 
+//*[@id="tdi_76_aae"]/div/div[1]/div/div[3]/div/p[33]/text()[1]
+
+LAST ATM LOCATION XPATH
+//*[@id="tdi_76_aae"]/div/div[1]/div/div[3]/div/p[912]/text()[1]
+
+
+7 TO 33 ARE BRANCHES
+
+34 TO 912 ARE ATM LOCATIONS
+
+
+
+//*[@id="tdi_76_aae"]/div/div[1]/div/div[3]/div/p[7]/br[1]
